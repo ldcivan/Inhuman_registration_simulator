@@ -1,0 +1,2 @@
+# Inhuman_registration_simulator
+非人道注册模拟器，改编自Bilibili@林粒粒呀
